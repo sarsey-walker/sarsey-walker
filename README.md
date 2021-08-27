@@ -15,7 +15,8 @@ I'm a passionate GNU/Linux user (i use arch btw). I am a minimalist. I want to s
 ⚡I also know how to exit vim.
 
 PS: I usually don't like emojis but this looked too bland without them ;)
- [![Walker GitHub stats](https://github-readme-stats.vercel.app/api?username=sarsey-walker&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Walker GitHub stats](https://github-readme-stats.vercel.app/api?username=sarsey-walker&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sarsey-walker/sarsey-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
