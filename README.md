@@ -3,13 +3,11 @@
 I'm a passionate GNU/Linux user (i use arch btw). I am a minimalist. I want to support and contribute to open-source projects and I am trying to gain enough knowledge to do so.
 
 ### Currently I am
-- 🔭 Working as intern
-- 📖 learning C#
-- 🌐 trying make a Web site by my self
-- 📖 reading The Linux Bible
+- 🔭 Working as system analyst(Analista de sistemas)
+- 📖 learning MAUI/balzor
+- 🌐 trying make a mobile app by my self
 
 ### I want to
-- ⛓️  learn blockchain
 - 💡 contribute to open-source projects
 
 ⚡I also know how to exit vim.
