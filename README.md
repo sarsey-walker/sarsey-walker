@@ -6,7 +6,7 @@
 [1.1]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/willian-l-161805199/
+[1]: https://www.linkedin.com/in/willian-assis-leite
 
 <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 
