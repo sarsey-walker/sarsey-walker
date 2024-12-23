@@ -3,7 +3,7 @@
 ## You can find me on: [![LinkedIn][1.1]][1]
 
 <!-- Icons -->
-[1.1]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding)
+<!-- [1.1]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding) -->
 
 <!-- Links to your social media accounts -->
 
