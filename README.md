@@ -1,7 +1,5 @@
 # 👋 Hey there! I am Will Walker :3
 
-## You can find me on: [![LinkedIn][1.1]][1]
-
 <!-- Icons -->
 <!-- [1.1]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding) -->
 
